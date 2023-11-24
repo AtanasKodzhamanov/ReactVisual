@@ -1,0 +1,23 @@
+.componentBubble{
+    width: 50%;
+    height: 200px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:1rem;
+}
+
+.levelOrder{
+    display: flex;
+    flex-direction: row;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
